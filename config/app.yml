@@ -1,0 +1,3 @@
+wsdl: 'https://se-face-webservice.redsara.es/sspp?wsdl'
+privateKey: 'cert.pem'
+password: '1234'
